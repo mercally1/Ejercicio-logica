@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\bin\Debug\net8.0\anagrama.exe
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\bin\Debug\net8.0\anagrama.deps.json
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\bin\Debug\net8.0\anagrama.runtimeconfig.json
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\bin\Debug\net8.0\anagrama.dll
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\bin\Debug\net8.0\anagrama.pdb
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\obj\Debug\net8.0\anagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\obj\Debug\net8.0\anagrama.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\obj\Debug\net8.0\anagrama.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\obj\Debug\net8.0\anagrama.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\obj\Debug\net8.0\anagrama.sourcelink.json
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\obj\Debug\net8.0\anagrama.dll
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\obj\Debug\net8.0\refint\anagrama.dll
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\obj\Debug\net8.0\anagrama.pdb
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\obj\Debug\net8.0\anagrama.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\ejercicios-logica\anagrama\obj\Debug\net8.0\ref\anagrama.dll

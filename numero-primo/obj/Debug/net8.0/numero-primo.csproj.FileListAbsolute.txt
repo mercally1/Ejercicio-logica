@@ -1,0 +1,15 @@
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\obj\Debug\net8.0\numero-primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\obj\Debug\net8.0\numero-primo.AssemblyInfoInputs.cache
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\obj\Debug\net8.0\numero-primo.AssemblyInfo.cs
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\obj\Debug\net8.0\numero-primo.csproj.CoreCompileInputs.cache
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\obj\Debug\net8.0\numero-primo.sourcelink.json
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\bin\Debug\net8.0\numero-primo.exe
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\bin\Debug\net8.0\numero-primo.deps.json
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\bin\Debug\net8.0\numero-primo.runtimeconfig.json
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\bin\Debug\net8.0\numero-primo.dll
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\bin\Debug\net8.0\numero-primo.pdb
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\obj\Debug\net8.0\numero-primo.dll
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\obj\Debug\net8.0\refint\numero-primo.dll
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\obj\Debug\net8.0\numero-primo.pdb
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\obj\Debug\net8.0\numero-primo.genruntimeconfig.cache
+C:\Users\jmerc\source\repos\ejercicios-logica\numero-primo\obj\Debug\net8.0\ref\numero-primo.dll
